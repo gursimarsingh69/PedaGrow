@@ -1,0 +1,28 @@
+PedaGrow AI - Educational Knowledge Base
+
+Welcome to PedaGrow AI, an intelligent learning assistant designed to help students excel in their studies.
+
+Key Features:
+1. Personalized Learning: Adapts to each student's learning style and pace
+2. AI-Powered Tutoring: Provides explanations, examples, and practice problems
+3. Progress Tracking: Monitors learning progress and identifies areas for improvement
+4. Interactive Quizzes: Generates customized quizzes based on curriculum
+
+Study Tips:
+- Review material regularly to reinforce learning
+- Practice problems to apply concepts
+- Ask questions when you don't understand
+- Break down complex topics into smaller parts
+- Use active recall techniques for better retention
+
+Mathematics Fundamentals:
+- Algebra: Solving equations, working with variables
+- Geometry: Shapes, angles, and spatial relationships
+- Calculus: Rates of change and accumulation
+
+Science Concepts:
+- Physics: Motion, forces, energy, and waves
+- Chemistry: Elements, compounds, and reactions
+- Biology: Cells, genetics, and ecosystems
+
+Remember: Learning is a journey. Stay curious and keep practicing!

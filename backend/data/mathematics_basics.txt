@@ -1,0 +1,32 @@
+Mathematics Basics - Core Concepts
+
+ALGEBRA:
+Algebra is a branch of mathematics that uses symbols and letters to represent numbers and quantities in formulas and equations. Key concepts include:
+- Variables: Letters like x, y, z that represent unknown values
+- Equations: Mathematical statements showing equality (e.g., 2x + 3 = 11)
+- Solving equations: Finding the value of variables that make the equation true
+- Linear equations: Equations where the highest power of the variable is 1
+- Quadratic equations: Equations where the highest power is 2 (ax² + bx + c = 0)
+
+GEOMETRY:
+Geometry is the study of shapes, sizes, positions, and properties of space. Important topics:
+- Points, lines, and planes: Basic building blocks of geometry
+- Angles: Formed when two rays share a common endpoint
+- Triangles: Three-sided polygons with various types (equilateral, isosceles, scalene)
+- Circles: All points equidistant from a center point
+- Area and perimeter: Measurements of two-dimensional shapes
+- Volume: Measurement of three-dimensional space
+
+CALCULUS:
+Calculus is the mathematical study of continuous change. Main branches:
+- Differential calculus: Studies rates of change and slopes
+- Integral calculus: Studies accumulation of quantities
+- Limits: The value a function approaches as input approaches a value
+- Derivatives: Measure instantaneous rate of change
+- Integrals: Measure accumulation over an interval
+
+PROBLEM-SOLVING STRATEGIES:
+1. Understand the problem: Read carefully and identify what's being asked
+2. Plan your approach: Decide which formulas or methods to use
+3. Execute: Work through the problem step by step
+4. Check your answer: Verify that your solution makes sense

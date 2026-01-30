@@ -1,0 +1,39 @@
+Science Fundamentals - Core Concepts
+
+PHYSICS:
+Physics is the study of matter, energy, and their interactions. Key topics:
+- Motion: Described by position, velocity, and acceleration
+- Forces: Push or pull that can change an object's motion (Newton's Laws)
+- Energy: Capacity to do work (kinetic, potential, thermal)
+- Waves: Transfer of energy without transferring matter
+- Electricity: Flow of electric charge
+- Magnetism: Force exerted by magnets and moving charges
+- Light: Electromagnetic radiation visible to the human eye
+
+CHEMISTRY:
+Chemistry studies the composition, structure, and properties of matter. Important concepts:
+- Atoms: Basic building blocks of matter (protons, neutrons, electrons)
+- Elements: Pure substances made of one type of atom
+- Compounds: Substances formed when two or more elements combine
+- Chemical reactions: Processes where substances transform into new substances
+- Periodic table: Organization of elements by atomic number and properties
+- Acids and bases: Substances with different pH levels
+- Chemical bonds: Forces holding atoms together (ionic, covalent)
+
+BIOLOGY:
+Biology is the study of living organisms and their processes. Core areas:
+- Cells: Basic unit of life (prokaryotic and eukaryotic)
+- Genetics: Study of heredity and variation (DNA, genes, chromosomes)
+- Evolution: Process of change in species over time
+- Ecosystems: Communities of organisms and their environments
+- Photosynthesis: Process by which plants convert light energy to chemical energy
+- Respiration: Process of breaking down food to release energy
+- Classification: Organizing living things into groups (kingdom, phylum, class, etc.)
+
+SCIENTIFIC METHOD:
+1. Observation: Notice something interesting
+2. Question: Ask why or how
+3. Hypothesis: Make an educated guess
+4. Experiment: Test the hypothesis
+5. Analysis: Examine the results
+6. Conclusion: Determine if hypothesis was correct
